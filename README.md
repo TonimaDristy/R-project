@@ -2,8 +2,8 @@
 <h2 align="left">📸 Demo</h2>
 
 <p align="center">
-  <img src="https://github.com/TonimaDristy/R-project/raw/main/bbc3eab1-ca37-4750-938f-84d893689416.jpg" width="30%" />
-  <img src="https://github.com/TonimaDristy/R-project/raw/main/bfc57afb-3f29-4ac5-b9ba-c53c56ddd0e6.jpg" width="30%" />
+  <img src="https://github.com/TonimaDristy/R-project/raw/main/bbc3eab1-ca37-4750-938f-84d893689416.jpg" width="50%" />
+  <img src="https://github.com/TonimaDristy/R-project/raw/main/bfc57afb-3f29-4ac5-b9ba-c53c56ddd0e6.jpg" width="50%" />
 </p>
 📊 A complete data preprocessing and exploratory data analysis (EDA) workflow using **R programming**.
 
